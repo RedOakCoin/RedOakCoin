@@ -10,6 +10,10 @@ ROC Parameters
  - 1.5 - Day Difficulty Adjustment
  - Per-Block Subsidy Decay =- 0.00016%
  
+ROC Dev., Updates
+==================
+POD-CryptoAsian (Proof Of Developer)
+
 Official Wesbite and Downloads
 ==============================
 
