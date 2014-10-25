@@ -1108,7 +1108,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees) {
 
     if(nHeight < nDiffChangeTarget) {
         //this is PreDecay Subsidy Value, reward is 129.53
-        nSubsidy = 160.78 * COIN;
+        nSubsidy = 129.53 * COIN;
     } else {
         //takes effect after 17280 blocks
         nSubsidy = GetROCSubsidy(nHeight);
